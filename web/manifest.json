@@ -1,11 +1,11 @@
 {
-    "name": "fruit_nija_game",
-    "short_name": "fruit_nija_game",
+    "name": "Fruit Ninja TiahM",
+    "short_name": "Fruit Ninja",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#1A0A05",
+    "theme_color": "#E8A317",
+    "description": "Swipe to slice fruit. Avoid bombs. Fruit Ninja TiahM.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

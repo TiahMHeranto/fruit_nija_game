@@ -1,17 +1,34 @@
-# fruit_nija_game
+# Fruit Ninja TiahM
 
-A new Flutter project.
+A swipe-to-slice Fruit Ninja style mobile game built with **Flutter** and **Dart**.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Slice flying fruit with a glowing blade trail
+- Bombs end the round if sliced
+- Three lives — missed fruit costs a life
+- Combo scoring for quick consecutive slices
+- Rising difficulty over time
+- High score saved locally
+- Pause / resume and game-over flow
 
-A few resources to get you started if this is your first Flutter project:
+## Run
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+```bash
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project layout
+
+```
+lib/
+  main.dart
+  theme/
+  screens/     # Home, Game, Game Over
+  widgets/     # HUD
+  game/
+    models/
+    engine/    # Physics, spawn, slice detection
+    painters/  # Custom-painted fruit, bombs, effects
+```
