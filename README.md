@@ -2,6 +2,17 @@
 
 A swipe-to-slice Fruit Ninja style mobile game built with **Flutter** and **Dart**.
 
+## Screenshots
+
+### Home
+![Home screen](screenshots/home.jpeg)
+
+### Gameplay
+![Gameplay](screenshots/gameplay.jpeg)
+
+### Game Over
+![Game Over](screenshots/game-over.jpeg)
+
 ## Features
 
 - Slice flying fruit with a glowing blade trail
