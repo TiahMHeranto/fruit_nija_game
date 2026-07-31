@@ -5,13 +5,13 @@ A swipe-to-slice Fruit Ninja style mobile game built with **Flutter** and **Dart
 ## Screenshots
 
 ### Home
-![Home screen](screenshots/home.jpeg)
+<img src="screenshots/home.jpeg" alt="Home screen" width="280" />
 
 ### Gameplay
-![Gameplay](screenshots/gameplay.jpeg)
+<img src="screenshots/gameplay.jpeg" alt="Gameplay" width="280" />
 
 ### Game Over
-![Game Over](screenshots/game-over.jpeg)
+<img src="screenshots/game-over.jpeg" alt="Game Over" width="280" />
 
 ## Features
 
